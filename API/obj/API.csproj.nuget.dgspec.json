@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mehemmed\\Desktop\\API\\API\\API\\API.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\BookAPI\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mehemmed\\Desktop\\API\\API\\API\\API.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\BookAPI\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mehemmed\\Desktop\\API\\API\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\BookAPI\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Mehemmed\\Desktop\\API\\API\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Mehemmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mehemmed\\Desktop\\API\\API\\API\\obj\\",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\BookAPI\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\BookAPI\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mehemmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

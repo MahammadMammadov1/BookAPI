@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<AppDbContext>(opt => {
-    opt.UseSqlServer("Server=MSI;Database=API;Trusted_Connection=True");
+    opt.UseSqlServer("Server=DESKTOP-0HH3DC0\\SQLEXPRESS;Database=API;Trusted_Connection=True");
 
 });
 

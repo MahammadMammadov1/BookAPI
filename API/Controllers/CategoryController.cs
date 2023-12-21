@@ -33,7 +33,7 @@ public class CategoriesController : ControllerBase
     }
 
     [HttpPost]
-    public IActionResult Create(CatagoryCreateDto dto)
+    public IActionResult Create([FromForm]CatagoryCreateDto dto)
     {
         Category catagory = new Category
         {
