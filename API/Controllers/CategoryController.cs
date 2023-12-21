@@ -55,6 +55,12 @@ public class CategoriesController : ControllerBase
 
         if (categoryToUpdate != null)
         {
+
+            categoryToUpdate.Name = updateDto.Name;
+            categoryToUpdate.CreatedDate = DateTime.UtcNow.
+                AddHours(4);
+            categoryToUpdate.UpdatedDate = DateTime.UtcNow.
+                AddHours(4);
             _appDb.SaveChanges();
             return Ok(categoryToUpdate);
         }
